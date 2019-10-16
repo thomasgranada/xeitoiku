@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooraecohcu.beautiful-tragedy.com/sitemap.xml
